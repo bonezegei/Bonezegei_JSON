@@ -7,3 +7,4 @@ Unlike full-featured JSON parsers, Bonezegei_JSON focuses on core functionalityâ
 
 The library is part of the Bonezegei ecosystem, which aims to streamline embedded development through modular, reusable tools. Bonezegei_JSON has been successfully integrated into serial-to-WebSocket bridges, local HTTP servers, and long polling clients, demonstrating its versatility in hardware-software integration workflows
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16747916.svg)](https://doi.org/10.5281/zenodo.16747916)
